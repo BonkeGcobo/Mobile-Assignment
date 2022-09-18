@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/khany/AndroidStudioProjects/MobileApplicationAssignmentCSC2002/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.151" />
+        <entry key="app/src/main/res/layout/activity_letter.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/from_left.xml" value="0.24739583333333334" />
+        <entry key="app/src/main/res/layout/letters.xml" value="0.14492753623188406" />
+        <entry key="app/src/main/res/menu/letter.xml" value="0.22" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.19375" />
       </map>
     </option>
   </component>
